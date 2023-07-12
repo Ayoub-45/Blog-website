@@ -1,3 +1,3 @@
 # Blog-website
-language:
-html,EJS and express
+languages:
+html,css,EJS and express
